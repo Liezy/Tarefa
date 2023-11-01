@@ -1,2 +1,2 @@
 # Tarefa
-ATividade de POO relacionado a Arraylists.
+Atividade de POO relacionado a Arraylists, ordenação de nomes em ordem alfabética.
